@@ -26,7 +26,13 @@ Click this [link](MAJOR.md) to be redirected.
 Click this [link](FAV-DEST.md) to be redirected.
 
 ## College Classes Taken
-**Page 3 will cover my class taken so far:**
+**Page 4 will cover my class taken so far:**
+* By May this semester I will have completed my first year at college and page will list those following classes
+
+Click this [link](CLASSES.md) to be redirected.
+
+## Code Block
+**Page 5 will cover my class taken so far:**
 * By May this semester I will have completed my first year at college and page will list those following classes
 
 Click this [link](CLASSES.md) to be redirected.
