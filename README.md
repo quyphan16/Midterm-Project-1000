@@ -1,3 +1,13 @@
-# Midterm-Project-1000
-**Description**: This project serves as personal informational page regarding everything about me.
-* This front page will consist of multiple links leading to five other detailed pages.
+# Introduction Page
+**Description**: This project serves as personal informational project regarding everything about me.
+* This front page will severe as a navigation portal that will have links directing you to several pages
+
+## General Information
+Page 1 will cover the main general information including:
+* Age
+* Major
+* Hometown
+* And more!
+
+
+
