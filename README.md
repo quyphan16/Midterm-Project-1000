@@ -1,6 +1,7 @@
 # Introduction Page
 **Description**: This project serves as personal informational project regarding everything about me.
 * This front page will severe as a navigation portal that will have links directing you to several pages
+<img src="FullSizeRender.jpg" width=25% height=25%>
 
 ## General Information
 **Page 1 will cover the main general information including:**
@@ -18,4 +19,9 @@ Click this [link](GEN-INFO.md) to be redirected.
 
 Click this [link](MAJOR.md) to be redirected.
 
+## Favorite Destinations
+**Page 3 will cover my top three favorite destinations:**
+* I have a large passion for traveling and am fond of the idea going to foreign places to explore.
+
+Click this [link](MAJOR.md) to be redirected.
 
