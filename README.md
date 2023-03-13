@@ -11,7 +11,7 @@
 
 Click this [link](GEN-INFO.md) to be redirected.
 
-## My Major
+## My Major Choice
 **Page 2 will cover this topics regarding my major choice:**
 * Reasoning for choosing this major
 * Future plans 
