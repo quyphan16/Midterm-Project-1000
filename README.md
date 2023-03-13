@@ -23,5 +23,5 @@ Click this [link](MAJOR.md) to be redirected.
 **Page 3 will cover my top three favorite destinations:**
 * I have a large passion for traveling and am fond of the idea going to foreign places to explore.
 
-Click this [link](MAJOR.md) to be redirected.
+Click this [link](FAV-DEST.md) to be redirected.
 
