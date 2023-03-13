@@ -21,7 +21,12 @@ Click this [link](MAJOR.md) to be redirected.
 
 ## Favorite Destinations
 **Page 3 will cover my top three favorite destinations:**
-* I have a large passion for traveling and am fond of the idea going to foreign places to explore.
+* I have a large passion for traveling and am fond of the idea going to foreign places to explore
 
 Click this [link](FAV-DEST.md) to be redirected.
 
+## College Classes Taken
+**Page 3 will cover my class taken so far:**
+* By May this semester I will have completed my first year at college and page will list those following classes
+
+Click this [link](FAV-DEST.md) to be redirected.
