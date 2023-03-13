@@ -8,6 +8,7 @@ Page 1 will cover the main general information including:
 * Major
 * Hometown
 * And more!
+Click this [link](GEN-INFO.md) to be redirected.
 
 
 
