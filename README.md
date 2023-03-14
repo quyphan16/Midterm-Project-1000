@@ -32,7 +32,7 @@ Click this [link](FAV-DEST.md) to be redirected.
 Click this [link](CLASSES.md) to be redirected.
 
 ## Code Block
-**Page 5 will cover my class taken so far:**
-* By May this semester I will have completed my first year at college and page will list those following classes
+**Page 5 contains a block of code:**
+* I wanted to highlight a project that I completed this semester in my INFOTC classes
 
 Click this [link](CLASSES.md) to be redirected.
